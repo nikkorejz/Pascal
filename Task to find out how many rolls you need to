@@ -13,7 +13,7 @@ Begin
   write('Введите длину: ');
   readln(b);
     if a * b mod 10 = 0 then 
-  writeln a * b div 10 else
+  writeln (a * b div 10) else
   writeln((a * b div 10)+1);
   readkey;
 End.
