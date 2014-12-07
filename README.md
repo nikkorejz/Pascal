@@ -1,5 +1,4 @@
 Pascal
 ======
 
-
-Here samples code, write with Turbo Pascal
+В этом репозитории вы сможете найти примеры задач на языке программирования Pascal
