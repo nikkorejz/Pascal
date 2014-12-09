@@ -2,16 +2,22 @@
 
 Program one;
 uses crt;
-var s,sn: string;
+var s,sn,sp: string;
     i: integer;
 begin
 write('s=');
 readln(s);
-if s[1] <> ' ' then
-sn := s[1];
-for i:=1 to length(s)-1 do
-begin
-if (s[i] = ' ') and (s[i+1] <> ' ') then sn := sn + s[i+1];
-end;
-writeln(sn);
+sn:= 'ил';
+sp:='ИЛ';
+if (s[1]='и') then
+insert(sn,s,1);
+if (s[1]='И') then
+insert(sp,s,1);
+For i:=2 to length(s)-1 do
+if (s[i-1] = ' ') and (s[i+1] = ' ') and (s[i] = 'и') then
+insert(sn,s,i);
+For i:=2 to length(s)-1 do
+if (s[i-1] = ' ') and (s[i+1] = ' ') and (s[i] = 'И') then
+insert(sp,s,i);
+writeln(s);
 end.
