@@ -12,5 +12,6 @@ Pascal
   3.[Двумерные массивы](https://github.com/ArtiX-GP/Pascal/tree/master/other_tasks/A_TWO_DIMENSIONAL_ARRAY)<br/>
   4.[Работа со строками (String)](https://github.com/ArtiX-GP/Pascal/tree/master/other_tasks/STRING)<br/>
   5.[Работа с числами](https://github.com/ArtiX-GP/Pascal/tree/master/other_tasks/numbers)<br/>
+  6.[Массивы и циклы](https://github.com/ArtiX-GP/Pascal/tree/master/other_tasks/arrays-and-cycles)<br/>
 
 Остальные задачи в папке "other_tasks", зайдите в нужный раздел, и чтобы найти нужную задачу, просто включите функцию поиска в браузере (CTRL + F), и наберите начало условия задачи
