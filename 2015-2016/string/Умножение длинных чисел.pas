@@ -1,6 +1,6 @@
 {Nikita Gromik vk.vom/nikkorejz}
 
-`program Lone;`
+program Lone;
 Var one,two,ss:string;
 j,i,help,n1,n2:integer;
 a:array[1..128]of string;
@@ -109,4 +109,4 @@ Begin
         
     
 End.
-```
+
