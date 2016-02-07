@@ -1,4 +1,5 @@
 {Nikita Gromik vk.vom/nikkorejz}
+```
 program Lone;
 Var one,two,ss:string;
 j,i,help,n1,n2:integer;
@@ -108,3 +109,4 @@ Begin
         
     
 End.
+```
