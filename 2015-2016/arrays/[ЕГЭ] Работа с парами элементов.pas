@@ -31,12 +31,10 @@ begin
     readln(a[i]);
   j:=0;
   for i:=1 to N-1 do
-    begin
-      if ((a[i] + a[i+1]) mod 3 = 0) and ((a[i] + a[i+1]) mod 9 <> 0) then
-        begin
-          j:= j + 1;
-          writeln(j, ') ', a[i], ' + ', a[i+1]);
-        end;
-    end;
+    if ((a[i] + a[i+1]) mod 3 = 0) and ((a[i] + a[i+1]) mod 9 <> 0) then
+      begin
+        j:= j + 1;
+        writeln(j, ') ', a[i], ' + ', a[i+1]);
+      end;
     writeln('Всего пар: ', j);
 end.
