@@ -7,7 +7,7 @@
 подразумеваются два соседних элемента массива. 
 
 const
-  N = 10;
+  N = 20;
 var
   a:array[1..N] of integer;
   i,j,k:integer;
@@ -22,7 +22,7 @@ end.
 }
 {решение: Nikita Gromik vk.com/nikkorejz}
 const
-  N = 10;
+  N = 20;
 var
   a:array[1..N] of integer;
   i,j,k:integer;
