@@ -6,7 +6,7 @@ Pascal
 ##Темы 2015-2016:
   1.[Рандомное создание строк](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/string) <br/>
   2.[Длинные числа](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/long_numbers)<br/>
-  3.[Работа с массивами](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/arrays)
+  3.[Работа с массивами](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/arrays)<br/>
   4.[Работа с числами](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/numbers)
 ##Темы 2014:
   1.[Контрольные задачи](https://github.com/ArtiX-GP/Pascal/tree/master/control_task/2014)<br/>
