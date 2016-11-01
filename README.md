@@ -3,6 +3,8 @@ Pascal
 
 В этом репозитории вы сможете найти примеры задач на языке программирования Pascal
 
+##Репозиторий по задачам на Python от того же автора. https://gitlab.com/Trixiean/my-python/tree/master
+
 ##Темы 2015-2016:
   1.[Рандомное создание строк](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/string) <br/>
   2.[Длинные числа](https://github.com/ArtiX-GP/Pascal/tree/master/2015-2016/long_numbers)<br/>
